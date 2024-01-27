@@ -47,10 +47,10 @@
 
 .address {
   max-width: 210px;
-  line-height: 150%;
-  letter-spacing: 1.1px;
+  line-height: 137%;
+  font-size: 18px;
   font-style: normal;
-}
+  }
 
 .header__address {
   justify-self: end;
